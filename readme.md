@@ -1,5 +1,6 @@
 # CheKernel
-> Chemical Engineering Kernel provides full computational approach of thermodynamic and physical Property Packages 400 widely used chemicals
+> Chemical Engineering Kernel provides full computational approach of thermodynamic and physical Property Packages of 400 widely used industrial chemicals
+
 ![](app.png)
 
 
