@@ -1,10 +1,5 @@
 # CheKernel
-> Chemical Engineering Kernel
-
- allows for importing CAPE-OPEN version 1.1 thermodynamic and physical Property Packages into C-Python for Windows.
-
-
-Chemical Engineering Kernel provides full computational approach to 400 widely used chemicals
+> Chemical Engineering Kernel provides full computational approach of thermodynamic and physical Property Packages 400 widely used chemicals
 ![](app.png)
 
 
