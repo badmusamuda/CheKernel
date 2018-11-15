@@ -32,6 +32,15 @@
   <url>https://github.com/badmusamuda/CheKernel/tree/master</url>
 </scm>
 
+<distributionManagement>
+    <repository>
+      <uniqueVersion>false</uniqueVersion>
+      <id>corp1</id>
+      <name>Corporate Repository</name>
+      <layout>default</layout>
+    </repository>
+</distributionManagement>
+
     <dependencies>
 
 	<!-- https://mvnrepository.com/artifact/org.sonatype.plugins/nexus-staging-maven-plugin -->
